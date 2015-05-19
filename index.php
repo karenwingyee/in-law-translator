@@ -181,7 +181,7 @@ if(isset($_SESSION['table_name'])){ ?>
 ?>
 <div class="section" id="main">
 	<div class="container">
-		<form action="http://localhost/in-law-translator/#main" method="POST" id="form"> <!-- action set to go to results div -->		
+		<form action="http://localhost/in-law-translator/#main" method="POST" id="form">	
 		<label for="phrases"><h2>Choose a Phrase</h2></label>
 		<div class="center">
 			<select id="phrases" name="phrases">
